@@ -1,5 +1,3 @@
-For this project you'll dig into a large amount of text and apply most of what you've covered in this unit and in the course so far.
-
 Pick a set of texts.  At least 100 should be good. There should also be at least 10 different authors, but try to keep the texts related (either all on the same topic of from the same branch of literature - something to make classification a bit more difficult than obviously different subjects).
 
 Create a series of clusters. Try several techniques and pick the one you think best represents your data. Make sure there is a narrative and reasoning around why you have chosen the given clusters. Are authors consistently grouped into the same cluster?
